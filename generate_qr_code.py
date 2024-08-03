@@ -25,4 +25,4 @@ for y in range(size):
 border_size = 2
 draw.rectangle([0, 0, img.width, img.height], outline=(0, 0, 0), width=border_size)
 
-img.save('custom_code.png')
+img.save('custom_qr_code.png')
