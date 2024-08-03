@@ -16,5 +16,5 @@ To get started with this project, you'll need to have Python installed. Follow t
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/qr-code-generator.git
+git clone https://github.com/SimplyProgYT/qr-code-generator.git
 cd qr-code-generator/generate_qr_code
