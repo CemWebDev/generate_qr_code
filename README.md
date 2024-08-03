@@ -7,3 +7,14 @@ This project is a Python application that generates QR codes, including custom-d
 - Generate QR codes from URLs
 - Customize QR code appearance with colors and borders
 - Save QR codes as images
+
+
+## Installation
+
+To get started with this project, you'll need to have Python installed. Follow the steps below to set up the project.
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/qr-code-generator.git
+cd qr-code-generator/generate_qr_code
