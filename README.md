@@ -18,3 +18,7 @@ To get started with this project, you'll need to have Python installed. Follow t
 ```bash
 git clone https://github.com/SimplyProgYT/qr-code-generator.git
 cd qr-code-generator/generate_qr_code
+
+
+python -m venv venv
+source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
