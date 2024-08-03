@@ -15,13 +15,27 @@ To get started with this project, you'll need to have Python installed. Follow t
 
 1. Clone the repository:
 
+    ```bash
+    git clone https://github.com/SimplyProgYT/qr-code-generator.git
+    cd qr-code-generator/generate_qr_code
+    ```
+
+2. Create and activate a virtual environment (optional but recommended):
+
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+    ```
+
+3. Install the required packages:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+## Usage
+
+To generate a QR code, run the `generate_qr_code.py` script. You can customize the URL and other parameters directly in the script.
+
 ```bash
-git clone https://github.com/SimplyProgYT/qr-code-generator.git
-cd qr-code-generator/generate_qr_code
-
-
-python -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-
-
-pip install -r requirements.txt
+python generate_qr_code.py
