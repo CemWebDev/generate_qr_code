@@ -1,13 +1,12 @@
 # generate_qr_code
 
-This project is a Python application that generates QR codes, including custom-designed ones. It uses the qrcode' and 'Pillow' libraries to create and manipulate QR codes.
+This project is a Python application that generates QR codes, including custom-designed ones. It uses the `qrcode` and `Pillow` libraries to create and manipulate QR codes.
 
 ## Features
 
 - Generate QR codes from URLs
 - Customize QR code appearance with colors and borders
 - Save QR codes as images
-
 
 ## Installation
 
@@ -39,6 +38,9 @@ To generate a QR code, run the `generate_qr_code.py` script. You can customize t
 
 ```bash
 python generate_qr_code.py
+```
 
+## Example
 
-![Example QR Code](generate_qr_code/custom_qr_code.png)`
+![Example QR Code](./qr_code.png)
+
