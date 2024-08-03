@@ -40,3 +40,5 @@ To generate a QR code, run the `generate_qr_code.py` script. You can customize t
 ```bash
 python generate_qr_code.py
 
+
+![Example QR Code](generate_qr_code/custom_qr_code.png)`
